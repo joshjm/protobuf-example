@@ -1,5 +1,6 @@
 # protobuf-example
 
+This example shows how to use protos in JS, showing an example with the definitions in the .proto file, through to an example serializing and deserialzing some data. This example includes working with the google.proto.Timestamp from js dates. 
 ## Install protoc 
 `protoc` is the protobuf compiler
 
